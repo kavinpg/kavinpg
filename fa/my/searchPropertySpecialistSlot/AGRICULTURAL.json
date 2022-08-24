@@ -2,19 +2,62 @@
     "status": 0,
     "statusDescription": "OK",
     "result": {
-        "INDUSTRIAL": {
-            "featuredAgentType": "INDUSTRIAL",
+        "AGRICULTURAL": {
+            "featuredAgentType": "AGRICULTURAL",
             "objectType": "areaCode",
             "data": [
                 {
-                    "objectId": "JH01610",
-                    "objectName": "Skudai, Johor Bahru, Johor",
+                    "objectId": "PG01502",
+                    "objectName": "Sungai Ara, Bayan Lepas, Penang",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-23T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10658,
+                            "startDate": "2022-08-27T16:00:00.000Z",
+                            "endDate": "2022-11-24T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 8,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-06T16:00:00.000Z",
+                        "end": "2022-11-20T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 2,
+                    "noOfActiveListings": 2,
+                    "areaName": "Sungai Ara, Bayan Lepas, Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg",
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 10
+                    }
+                },
+                {
+                    "objectId": "PG07004",
+                    "objectName": "Bukit Jambul, Timor Laut (Island), Penang",
                     "noOfAvailableSlots": 6,
                     "bookings": [
                         {
-                            "id": 10604,
-                            "startDate": "2022-08-17T16:00:00.000Z",
-                            "endDate": "2022-09-15T16:00:00.000Z",
+                            "id": 10659,
+                            "startDate": "2022-09-12T16:00:00.000Z",
+                            "endDate": "2023-03-10T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 16,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10656,
+                            "startDate": "2022-08-13T16:00:00.000Z",
+                            "endDate": "2022-09-11T16:00:00.000Z",
                             "statusCode": "ACT",
                             "creditCharged": 3,
                             "isExpiring": false
@@ -23,16 +66,50 @@
                     "isExtensible": false,
                     "isReservable": false,
                     "extensiblePeriod": {
-                        "start": "2022-08-27T16:00:00.000Z",
-                        "end": "2022-09-11T16:00:00.000Z"
+                        "start": "2022-09-22T16:00:00.000Z",
+                        "end": "2023-03-06T16:00:00.000Z"
                     },
                     "hasNotificationEnabled": true,
-                    "noOfActiveAgents": 31,
-                    "noOfActiveListings": 47,
-                    "areaName": "Skudai, Johor Bahru, Johor",
-                    "regionCode": "MY01",
-                    "regionName": "Johor",
-                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "noOfActiveAgents": 2,
+                    "noOfActiveListings": 2,
+                    "areaName": "Bukit Jambul, Timor Laut (Island), Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg",
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 10
+                    }
+                },
+                {
+                    "objectId": "SL03705",
+                    "objectName": "Kapar, Klang, Selangor",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10657,
+                            "startDate": "2022-08-24T16:00:00.000Z",
+                            "endDate": "2022-09-22T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 3,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-03T16:00:00.000Z",
+                        "end": "2022-09-18T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 22,
+                    "noOfActiveListings": 27,
+                    "areaName": "Kapar, Klang, Selangor",
+                    "regionCode": "MY10",
+                    "regionName": "Selangor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/selangor.jpg",
                     "creditCharge": {
                         "30d": 3,
                         "90d": 8,
