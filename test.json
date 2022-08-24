@@ -1,0 +1,508 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+        "CONDO": {
+            "featuredAgentType": "CONDO",
+            "objectType": "propertyId",
+            "data": [
+                {
+                    "objectId": 46,
+                    "objectName": "Lot 16 Ampang Hilir",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10611,
+                            "startDate": "2022-08-18T16:00:00.000Z",
+                            "endDate": "2022-11-15T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 25,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-28T16:00:00.000Z",
+                        "end": "2022-11-11T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 1,
+                    "noOfActiveListings": 1,
+                    "creditCharge": {
+                        "30d": 9,
+                        "90d": 25,
+                        "180d": 51
+                    },
+                    "propertyName": "Lot 16 Ampang Hilir",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/44/ZPPHO.95749720.R550X550.jpg",
+                    "propertyType": "CONDO"
+                },
+                {
+                    "objectId": 53,
+                    "objectName": "Plaza Palas Condominium",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-15T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10624,
+                            "startDate": "2022-08-24T16:00:00.000Z",
+                            "endDate": "2022-09-22T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 16,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-03T16:00:00.000Z",
+                        "end": "2022-09-18T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 1,
+                    "noOfActiveListings": 1,
+                    "creditCharge": {
+                        "30d": 16,
+                        "90d": 46,
+                        "180d": 93,
+                        "full": 18
+                    },
+                    "propertyName": "Plaza Palas Condominium",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/51/ZPPHO.95749768.R550X550.jpg",
+                    "propertyType": "CONDO"
+                },
+                {
+                    "objectId": 122,
+                    "objectName": "N-Park Apartment",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10579,
+                            "startDate": "2022-09-04T16:00:00.000Z",
+                            "endDate": "2023-03-02T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 3,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10287,
+                            "startDate": "2022-08-05T16:00:00.000Z",
+                            "endDate": "2022-09-03T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-14T16:00:00.000Z",
+                        "end": "2023-02-26T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 3,
+                    "noOfActiveListings": 3,
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 3,
+                        "full": 3
+                    },
+                    "propertyName": "N-Park Apartment",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/114/ZPPHO.95750125.R550X550.jpg",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 561,
+                    "objectName": "Alpha Villa",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10584,
+                            "startDate": "2022-08-16T16:00:00.000Z",
+                            "endDate": "2023-02-11T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 3,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-26T16:00:00.000Z",
+                        "end": "2023-02-07T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 6,
+                    "noOfActiveListings": 10,
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 3,
+                        "full": 3
+                    },
+                    "propertyName": "Alpha Villa",
+                    "coverImageUrl": "https://sg1-cdn-staging.pgimgs.com/projectnet-project/539/ZPPHO.95752938.R550X550.jpg",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 1321,
+                    "objectName": "Astana Damansara",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10613,
+                            "startDate": "2022-09-04T16:00:00.000Z",
+                            "endDate": "2022-10-03T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10589,
+                            "startDate": "2022-08-05T16:00:00.000Z",
+                            "endDate": "2022-09-03T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-14T16:00:00.000Z",
+                        "end": "2022-09-29T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 3,
+                    "noOfActiveListings": 3,
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 3,
+                        "full": 3
+                    },
+                    "propertyName": "Astana Damansara",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/1278/ZPPHO.95757961.R550X550.jpg",
+                    "propertyType": "CONDO"
+                },
+                {
+                    "objectId": 4448,
+                    "objectName": "Pine Residence",
+                    "noOfAvailableSlots": 5,
+                    "bookings": [
+                        {
+                            "id": 10610,
+                            "startDate": "2022-08-18T16:00:00.000Z",
+                            "endDate": "2022-09-16T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 6,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-28T16:00:00.000Z",
+                        "end": "2022-09-12T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 24,
+                    "noOfActiveListings": 32,
+                    "creditCharge": {
+                        "30d": 6,
+                        "90d": 16,
+                        "180d": 33,
+                        "full": 10
+                    },
+                    "propertyName": "Pine Residence",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/2814/ZPPHO.104522461.R550X550.jpg",
+                    "propertyType": "CONDO"
+                },
+                {
+                    "objectId": 4850,
+                    "objectName": "Astana Alam Apartment 3",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-15T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10541,
+                            "startDate": "2022-08-19T16:00:00.000Z",
+                            "endDate": "2022-11-16T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 19,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-29T16:00:00.000Z",
+                        "end": "2022-11-12T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 5,
+                    "noOfActiveListings": 5,
+                    "creditCharge": {
+                        "30d": 7,
+                        "90d": 19,
+                        "180d": 39,
+                        "full": 12
+                    },
+                    "propertyName": "Astana Alam Apartment 3",
+                    "coverImageUrl": "",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 4856,
+                    "objectName": "Cherry Apartments",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10443,
+                            "startDate": "2022-08-31T16:00:00.000Z",
+                            "endDate": "2022-09-29T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 9,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10364,
+                            "startDate": "2022-08-01T16:00:00.000Z",
+                            "endDate": "2022-08-30T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 9,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-10T16:00:00.000Z",
+                        "end": "2022-09-25T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 499,
+                    "noOfActiveListings": 585,
+                    "creditCharge": {
+                        "30d": 9,
+                        "90d": 25,
+                        "180d": 51
+                    },
+                    "propertyName": "Cherry Apartments",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/2949/ZPPHO.95764984.R550X550.jpg",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 7439,
+                    "objectName": "The Henge Kepong",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10626,
+                            "startDate": "2022-09-09T16:00:00.000Z",
+                            "endDate": "2023-03-07T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 51,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10303,
+                            "startDate": "2022-08-10T16:00:00.000Z",
+                            "endDate": "2022-09-08T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 9,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-19T16:00:00.000Z",
+                        "end": "2023-03-03T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 56,
+                    "noOfActiveListings": 175,
+                    "creditCharge": {
+                        "30d": 9,
+                        "90d": 25,
+                        "180d": 51,
+                        "full": 9
+                    },
+                    "propertyName": "The Henge Kepong",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/70875/ZPPHO.106019968.R550X550.jpg",
+                    "propertyType": "SRES"
+                },
+                {
+                    "objectId": 9110,
+                    "objectName": "The Ruma Residences, KLCC",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10616,
+                            "startDate": "2022-08-19T16:00:00.000Z",
+                            "endDate": "2022-09-17T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 4,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-29T16:00:00.000Z",
+                        "end": "2022-09-13T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 13,
+                    "noOfActiveListings": 22,
+                    "creditCharge": {
+                        "30d": 4,
+                        "90d": 10,
+                        "180d": 21,
+                        "full": 8
+                    },
+                    "propertyName": "The Ruma Residences, KLCC",
+                    "coverImageUrl": "https://sg-rpfs-staging.pgimgs.com/projectnet-project/68918/ZPPHO.127959224.R550X550.jpg",
+                    "propertyType": "SRES"
+                },
+                {
+                    "objectId": 11703,
+                    "objectName": "Aliff Avenue (Dwi Alif)",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10354,
+                            "startDate": "2022-08-12T16:00:00.000Z",
+                            "endDate": "2023-02-07T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 33,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": true,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-22T16:00:00.000Z",
+                        "end": "2023-02-03T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 23,
+                    "noOfActiveListings": 39,
+                    "creditCharge": {
+                        "30d": 6,
+                        "90d": 16,
+                        "180d": 33,
+                        "full": 10
+                    },
+                    "propertyName": "Aliff Avenue (Dwi Alif)",
+                    "coverImageUrl": "https://sg1-cdn-staging.pgimgs.com/projectnet-project/111479/ZPPHO.110818446.R550X550.jpg",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 13405,
+                    "objectName": "Horizon Hills",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10575,
+                            "startDate": "2022-08-16T16:00:00.000Z",
+                            "endDate": "2022-09-14T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-26T16:00:00.000Z",
+                        "end": "2022-09-10T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 42,
+                    "noOfActiveListings": 129,
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 3,
+                        "full": 3
+                    },
+                    "propertyName": "Horizon Hills",
+                    "coverImageUrl": "https://sg-rpfs-staging.pgimgs.com/projectnet-project/127830/ZPPHO.112551626.R550X550.jpg",
+                    "propertyType": "CONDO"
+                },
+                {
+                    "objectId": 14065,
+                    "objectName": "Alpha Arena Apartment",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-15T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10540,
+                            "startDate": "2022-08-20T16:00:00.000Z",
+                            "endDate": "2022-09-18T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 16,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-30T16:00:00.000Z",
+                        "end": "2022-09-14T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": true,
+                    "noOfActiveAgents": 1,
+                    "noOfActiveListings": 4,
+                    "creditCharge": {
+                        "30d": 16,
+                        "90d": 46,
+                        "180d": 93,
+                        "full": 18
+                    },
+                    "propertyName": "Alpha Arena Apartment",
+                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/137006/ZPPHO.114128749.R550X550.jpg",
+                    "propertyType": "APT"
+                },
+                {
+                    "objectId": 16371,
+                    "objectName": "Aetas Damansara",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-23T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10625,
+                            "startDate": "2022-08-27T16:00:00.000Z",
+                            "endDate": "2022-11-24T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 19,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-06T16:00:00.000Z",
+                        "end": "2022-11-20T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 10,
+                    "noOfActiveListings": 26,
+                    "creditCharge": {
+                        "30d": 7,
+                        "90d": 19,
+                        "180d": 39,
+                        "full": 12
+                    },
+                    "propertyName": "Aetas Damansara",
+                    "coverImageUrl": "",
+                    "propertyType": "APT"
+                }
+            ]
+        }
+    }
+}
