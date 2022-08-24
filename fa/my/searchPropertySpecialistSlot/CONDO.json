@@ -10,12 +10,12 @@
                     "objectId": 53,
                     "objectName": "Plaza Palas Condominium",
                     "noOfAvailableSlots": 0,
-                    "availableDate": "2022-08-24T16:00:00.000Z",
+                    "availableDate": "2022-09-15T16:00:00.000Z",
                     "bookings": [
                         {
                             "id": 10624,
                             "startDate": "2022-08-24T16:00:00.000Z",
-                            "endDate": "2022-09-22T16:00:00.000Z",
+                            "endDate": "2022-08-28T16:00:00.000Z",
                             "statusCode": "ACT",
                             "creditCharged": 16,
                             "isExpiring": false
