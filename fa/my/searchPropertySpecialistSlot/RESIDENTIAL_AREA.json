@@ -1,0 +1,387 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+        "RESIDENTIAL_AREA": {
+            "featuredAgentType": "RESIDENTIAL_AREA",
+            "objectType": "areaCode",
+            "data": [
+                {
+                    "objectId": "JH00501",
+                    "objectName": "Parit Raja, Batu Pahat, Johor",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10580,
+                            "startDate": "2022-09-04T16:00:00.000Z",
+                            "endDate": "2022-12-02T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 25,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10284,
+                            "startDate": "2022-08-05T16:00:00.000Z",
+                            "endDate": "2022-09-03T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 9,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-14T16:00:00.000Z",
+                        "end": "2022-11-28T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Parit Raja, Batu Pahat, Johor",
+                    "regionCode": "MY01",
+                    "regionName": "Johor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 4,
+                        "full": 10
+                    },
+                    "noOfActiveAgents": 9,
+                    "noOfActiveListings": 19
+                },
+                {
+                    "objectId": "JH01603",
+                    "objectName": "Tampoi, Johor Bahru, Johor",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-23T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10636,
+                            "startDate": "2022-08-27T16:00:00.000Z",
+                            "endDate": "2022-09-25T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 7,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-06T16:00:00.000Z",
+                        "end": "2022-09-21T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": true,
+                    "areaName": "Tampoi, Johor Bahru, Johor",
+                    "regionCode": "MY01",
+                    "regionName": "Johor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "creditCharge": {
+                        "30d": 7,
+                        "90d": 20,
+                        "180d": 40,
+                        "full": 70
+                    },
+                    "noOfActiveAgents": 249,
+                    "noOfActiveListings": 532
+                },
+                {
+                    "objectId": "JH01604",
+                    "objectName": "Ulu Tiram, Johor Bahru, Johor",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10637,
+                            "startDate": "2022-09-12T16:00:00.000Z",
+                            "endDate": "2022-10-11T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10634,
+                            "startDate": "2022-08-13T16:00:00.000Z",
+                            "endDate": "2022-09-11T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 1,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-22T16:00:00.000Z",
+                        "end": "2022-10-07T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Ulu Tiram, Johor Bahru, Johor",
+                    "regionCode": "MY01",
+                    "regionName": "Johor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 4,
+                        "full": 10
+                    },
+                    "noOfActiveAgents": 281,
+                    "noOfActiveListings": 736
+                },
+                {
+                    "objectId": "JH05504",
+                    "objectName": "Horizon Hills, Iskandar Puteri, Johor",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-15T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10571,
+                            "startDate": "2022-08-20T16:00:00.000Z",
+                            "endDate": "2023-02-15T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 20,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-30T16:00:00.000Z",
+                        "end": "2023-02-11T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Horizon Hills, Iskandar Puteri, Johor",
+                    "regionCode": "MY01",
+                    "regionName": "Johor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "creditCharge": {
+                        "30d": 7,
+                        "90d": 20,
+                        "180d": 40,
+                        "full": 70
+                    },
+                    "noOfActiveAgents": 256,
+                    "noOfActiveListings": 850
+                },
+                {
+                    "objectId": "KL02805",
+                    "objectName": "KLCC, KL City, Kuala Lumpur",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10635,
+                            "startDate": "2022-08-24T16:00:00.000Z",
+                            "endDate": "2023-02-19T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 4,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-03T16:00:00.000Z",
+                        "end": "2023-02-15T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "KLCC, KL City, Kuala Lumpur",
+                    "regionCode": "MY14",
+                    "regionName": "Kuala Lumpur",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/kuala-lumpur.jpg",
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 4,
+                        "full": 10
+                    },
+                    "noOfActiveAgents": 722,
+                    "noOfActiveListings": 3598
+                },
+                {
+                    "objectId": "KL02806",
+                    "objectName": "Jalan Ampang, KL City, Kuala Lumpur",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10461,
+                            "startDate": "2022-08-31T16:00:00.000Z",
+                            "endDate": "2022-11-28T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 17,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10460,
+                            "startDate": "2022-08-01T16:00:00.000Z",
+                            "endDate": "2022-08-30T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 6,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-10T16:00:00.000Z",
+                        "end": "2022-11-24T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Jalan Ampang, KL City, Kuala Lumpur",
+                    "regionCode": "MY14",
+                    "regionName": "Kuala Lumpur",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/kuala-lumpur.jpg",
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 4,
+                        "full": 10
+                    },
+                    "noOfActiveAgents": 330,
+                    "noOfActiveListings": 769
+                },
+                {
+                    "objectId": "NS00804",
+                    "objectName": "Bandar Seri Jempol, Jempol, Negeri Sembilan",
+                    "noOfAvailableSlots": 4,
+                    "bookings": [
+                        {
+                            "id": 10585,
+                            "startDate": "2022-08-16T16:00:00.000Z",
+                            "endDate": "2022-11-13T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 25,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-26T16:00:00.000Z",
+                        "end": "2022-11-09T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Bandar Seri Jempol, Jempol, Negeri Sembilan",
+                    "regionCode": "MY05",
+                    "regionName": "Negeri Sembilan",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/negeri-sembilan.jpg",
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 1
+                    },
+                    "noOfActiveAgents": 2,
+                    "noOfActiveListings": 2
+                },
+                {
+                    "objectId": "PG02703",
+                    "objectName": "Jalan Scotland, Georgetown, Penang",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10544,
+                            "startDate": "2022-09-04T16:00:00.000Z",
+                            "endDate": "2023-03-02T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 8,
+                            "isExpiring": false
+                        },
+                        {
+                            "id": 10286,
+                            "startDate": "2022-08-05T16:00:00.000Z",
+                            "endDate": "2022-09-03T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 2,
+                            "isExpiring": true
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-09-14T16:00:00.000Z",
+                        "end": "2023-02-26T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Jalan Scotland, Georgetown, Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg",
+                    "creditCharge": {
+                        "30d": 1,
+                        "90d": 2,
+                        "180d": 4,
+                        "full": 10
+                    },
+                    "noOfActiveAgents": 20,
+                    "noOfActiveListings": 24
+                },
+                {
+                    "objectId": "PG07009",
+                    "objectName": "Paya Terubong, Timor Laut (Island), Penang",
+                    "noOfAvailableSlots": 5,
+                    "bookings": [
+                        {
+                            "id": 10612,
+                            "startDate": "2022-08-19T16:00:00.000Z",
+                            "endDate": "2022-09-17T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 2,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-29T16:00:00.000Z",
+                        "end": "2022-09-13T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Paya Terubong, Timor Laut (Island), Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg",
+                    "creditCharge": {
+                        "30d": 2,
+                        "90d": 5,
+                        "180d": 10,
+                        "full": 2
+                    },
+                    "noOfActiveAgents": 60,
+                    "noOfActiveListings": 97
+                },
+                {
+                    "objectId": "PG07011",
+                    "objectName": "Gelugor, Timor Laut (Island), Penang",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-09-15T16:00:00.000Z",
+                    "bookings": [
+                        {
+                            "id": 10607,
+                            "startDate": "2022-08-19T16:00:00.000Z",
+                            "endDate": "2022-09-17T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 7,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-29T16:00:00.000Z",
+                        "end": "2022-09-13T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": false,
+                    "areaName": "Gelugor, Timor Laut (Island), Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg",
+                    "creditCharge": {
+                        "30d": 7,
+                        "90d": 20,
+                        "180d": 40,
+                        "full": 70
+                    },
+                    "noOfActiveAgents": 265,
+                    "noOfActiveListings": 1684
+                }
+            ]
+        }
+    }
+}
