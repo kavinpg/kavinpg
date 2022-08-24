@@ -1,0 +1,2 @@
+git config --global user.name "D Kavin"
+git config --global user.email "kavin@propertyguru.tech"
