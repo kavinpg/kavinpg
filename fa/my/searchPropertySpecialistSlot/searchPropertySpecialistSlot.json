@@ -1,0 +1,55 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+        "AGRICULTURAL": {
+            "featuredAgentType": "AGRICULTURAL",
+            "objectType": "areaCode",
+            "data": [
+                {
+                    "objectId": "PG01502",
+                    "objectName": "Sungai Ara, Bayan Lepas, Penang",
+                    "noOfAvailableSlots": 0,
+                    "availableDate": "2022-08-28T16:00:00.000Z",
+                    "bookings": [],
+                    "isExtensible": false,
+                    "isReservable": true,
+                    "reservableDate": "2022-08-24T04:00:00.000Z",
+                    "noOfActiveAgents": 2,
+                    "noOfActiveListings": 2,
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 10
+                    },
+                    "areaName": "Sungai Ara, Bayan Lepas, Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg"
+                },
+                {
+                    "objectId": "PG01503",
+                    "objectName": "Batu Maung, Bayan Lepas, Penang",
+                    "noOfAvailableSlots": 7,
+                    "bookings": [],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "hasNotificationEnabled": false,
+                    "noOfActiveAgents": 0,
+                    "noOfActiveListings": 0,
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 10
+                    },
+                    "areaName": "Batu Maung, Bayan Lepas, Penang",
+                    "regionCode": "MY07",
+                    "regionName": "Penang",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/penang.jpg"
+                }
+            ]
+        }
+    }
+}
