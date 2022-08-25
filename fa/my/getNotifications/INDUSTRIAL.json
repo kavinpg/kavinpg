@@ -1,0 +1,46 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+        "INDUSTRIAL": {
+            "featuredAgentType": "INDUSTRIAL",
+            "objectType": "areaCode",
+            "data": [
+                {
+                    "objectId": "JH01610",
+                    "objectName": "Skudai, Johor Bahru, Johor",
+                    "noOfAvailableSlots": 6,
+                    "bookings": [
+                        {
+                            "id": 10604,
+                            "startDate": "2022-08-17T16:00:00.000Z",
+                            "endDate": "2022-09-15T16:00:00.000Z",
+                            "statusCode": "ACT",
+                            "creditCharged": 3,
+                            "isExpiring": false
+                        }
+                    ],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "extensiblePeriod": {
+                        "start": "2022-08-27T16:00:00.000Z",
+                        "end": "2022-09-11T16:00:00.000Z"
+                    },
+                    "hasNotificationEnabled": true,
+                    "noOfActiveAgents": 31,
+                    "noOfActiveListings": 47,
+                    "areaName": "Skudai, Johor Bahru, Johor",
+                    "regionCode": "MY01",
+                    "regionName": "Johor",
+                    "coverImageUrl": "https://cdn-staging.pgimgs.com/my/agentmonetization/images/states/johor.jpg",
+                    "creditCharge": {
+                        "30d": 3,
+                        "90d": 8,
+                        "180d": 16,
+                        "full": 10
+                    }
+                }
+            ]
+        }
+    }
+}
