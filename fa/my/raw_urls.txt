@@ -1,0 +1,14 @@
+Raw URLS FA MY
+--------------
+
+searchPropertySpecialistSlot
+-----------------------------
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/searchPropertySpecialistSlot/AGRICULTURAL.json
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/searchPropertySpecialistSlot/CONDO.json
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/searchPropertySpecialistSlot/INDUSTRIAL.json
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/searchPropertySpecialistSlot/OFFICE.json
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/searchPropertySpecialistSlot/RESIDENTIAL_AREA.json
+
+getNotifications
+------------------
+https://raw.githubusercontent.com/kavinpg/kavinpg/main/fa/my/getNotifications/all.json
