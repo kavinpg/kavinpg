@@ -7,40 +7,6 @@
             "objectType": "propertyId",
             "data": [
                 {
-                    "objectId": 531,
-                    "objectName": "Plaza Palas Condominium",
-                    "noOfAvailableSlots": 0,
-                    "availableDate": "2022-09-15T16:00:00.000Z",
-                    "bookings": [
-                        {
-                            "id": 10624,
-                            "startDate": "2022-08-24T16:00:00.000Z",
-                            "endDate": "2022-08-28T16:00:00.000Z",
-                            "statusCode": "ACT",
-                            "creditCharged": 16,
-                            "isExpiring": false
-                        }
-                    ],
-                    "isExtensible": false,
-                    "isReservable": false,
-                    "extensiblePeriod": {
-                        "start": "2022-09-03T16:00:00.000Z",
-                        "end": "2022-09-18T16:00:00.000Z"
-                    },
-                    "hasNotificationEnabled": false,
-                    "noOfActiveAgents": 1,
-                    "noOfActiveListings": 1,
-                    "creditCharge": {
-                        "30d": 16,
-                        "90d": 46,
-                        "180d": 93,
-                        "full": 18
-                    },
-                    "propertyName": "Plaza Palas Condominium",
-                    "coverImageUrl": "https://sg2-cdn-staging.pgimgs.com/projectnet-project/51/ZPPHO.95749768.R550X550.jpg",
-                    "propertyType": "CONDO"
-                },
-                {
                     "objectId": 46,
                     "objectName": "Lot 16 Ampang Hilir",
                     "noOfAvailableSlots": 6,
