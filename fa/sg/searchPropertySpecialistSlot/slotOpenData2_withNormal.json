@@ -1,0 +1,110 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+        "properties": [
+            {
+                "propertyId": 1044,
+                "noOfAvailableSlots": 7,
+                "noOfActiveAgents": 4,
+                "noOfActiveListings": 4,
+                "bookings": [],
+                "isExtensible": false,
+                "isReservable": false,
+                "hasNotificationEnabled": true,
+                "noOfSearches": 23,
+                "isNewLaunch": true,
+                "completionYear": 2023,
+                "propertyName": "Avila Terrace 1044",
+                "coverImageUrl": "",
+                "propertyType": "TERRA",
+                "creditCharge": {
+                    "30d": 17,
+                    "90d": 49,
+                    "180d": 100,
+                    "full": 23
+                }
+            },
+            {
+                "propertyId": 1045,
+                "noOfAvailableSlots": 0,
+                "noOfActiveAgents": 4,
+                "noOfActiveListings": 4,
+                "bookings": [],
+                "isExtensible": false,
+                "isReservable": false,
+                "reservableDate" : "2022-10-04T04:00:00.000Z",
+                "hasNotificationEnabled": true,
+                "noOfSearches": 23,
+                "isNewLaunch": true,
+                "completionYear": 2023,
+                "propertyName": "Avila Terrace 1045",
+                "coverImageUrl": "",
+                "propertyType": "TERRA",
+                "creditCharge": {
+                    "30d": 17,
+                    "90d": 49,
+                    "180d": 100,
+                    "full": 23
+                }
+            }
+        ],
+        "hdbEstates": [],
+        "commercialProperties": [],
+        "commercialDistricts": [],
+        "condoDistricts": [],
+        "houseDistricts": [],
+        "others": [],
+        "newLaunches": {
+            "properties": [
+                {
+                    "propertyId": 1043,
+                    "noOfAvailableSlots": 7,
+                    "noOfActiveAgents": 4,
+                    "noOfActiveListings": 4,
+                    "bookings": [],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "hasNotificationEnabled": true,
+                    "noOfSearches": 23,
+                    "isNewLaunch": true,
+                    "completionYear": 2023,
+                    "slotOpeningDate": "2022-10-04T04:00:00.000Z",
+                    "propertyName": "Avila Terrace",
+                    "coverImageUrl": "",
+                    "propertyType": "TERRA",
+                    "creditCharge": {
+                        "30d": 17,
+                        "90d": 49,
+                        "180d": 100,
+                        "full": 23
+                    }
+                }
+            ],
+            "commercialProperties": [
+                {
+                    "propertyId": 19806,
+                    "isCommercial": true,
+                    "noOfAvailableSlots": 7,
+                    "noOfActiveAgents": 1,
+                    "noOfActiveListings": 1,
+                    "bookings": [],
+                    "isExtensible": false,
+                    "isReservable": false,
+                    "hasNotificationEnabled": false,
+                    "isNewLaunch": true,
+                    "completionYear": 2022,
+                    "propertyName": "McDonald's Place",
+                    "coverImageUrl": "https://sg1-cdn-staging.pgimgs.com/projectnet-project/18075/ZPPHO.96976392.R550X550.jpg",
+                    "propertyType": "OFF",
+                    "creditCharge": {
+                        "30d": 5,
+                        "90d": 12,
+                        "180d": 20,
+                        "full": 10
+                    }
+                }
+            ]
+        }
+    }
+}
